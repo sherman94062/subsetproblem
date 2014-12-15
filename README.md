@@ -5,7 +5,7 @@ Find subsets in a range of integers
 
 description:
 Please find the number of subsets of an array where the greatest number
-is the sum of the remaining numbers. 
+is the sum of the remaining numbers.
 For example, for an input of: 1, 2, 3, 4, 6
 the subsets would be:
 1 + 2 = 3
